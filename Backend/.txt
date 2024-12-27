@@ -1,0 +1,24 @@
+1.
+Problem Encountered: Not able to get username,email,password from req.body
+Soln Found: used body-parser
+
+2.
+Problem Encountered: Cannot send two msgs from client in socket.io
+Soln Found: only one emit message can be sent from client-side
+3.
+Problem Encountered: Cannot read properties of null (reading 'getTracks') at line 116, 183
+Soln Found: Proper useEffect implemented
+
+
+/*
+
+Trying to learn how to use socket using doc https://socket.io/docs/v4/tutorial/introduction
+
+Got to know About props, context with deeper knowlegde
+
+STUN SERVERS LIST: https://gist.github.com/mondain/b0ec1cf5f60ae726202e
+
+Got to know about navigator/mediaDevices -> They are used to access user's camera and microphone    
+
+Got to know About STUN & SINGALING servers
+*/

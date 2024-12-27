@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Landing page */
+.LandingPage{
+  margin: 0;
+  height: 100vh;
+  background-image: url('./assets/bg.png');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.title{
+  text-decoration: none;
+  color: white;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.navbar .title{
+  color:azure;
+}
+.auth-container{
+  display: flex;
+  align-items: center;
+}
+.auth-container button{
+  font-size: 0.9rem;
+  margin-right: 1rem;
+  border: none;
+}
+
+.auth-container button{
+  height: 1.5rem;
+  width: 5rem;
+  border-radius: 10px;
+}
+
+.guestAuth{
+  text-decoration: none;
+  color: white;
+  margin-right: 1rem;
+}
+.register{
+  cursor: pointer;
+}
+.info{
+  margin: 5rem 5rem 0rem 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-section{
+  color: white;
+  margin: auto;
+  padding-right: 20rem;
+}
+
+.get-started{
+  font-size: 1.25rem;
+  padding: 10px;
+  margin-right: 1rem;
+  border-radius: 50px;
+  border: none;
+}
+
+
+/*Video meet page*/
+
