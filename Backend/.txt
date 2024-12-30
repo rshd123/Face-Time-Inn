@@ -5,9 +5,14 @@ Soln Found: used body-parser
 2.
 Problem Encountered: Cannot send two msgs from client in socket.io
 Soln Found: only one emit message can be sent from client-side
+
 3.
 Problem Encountered: Cannot read properties of null (reading 'getTracks') at line 116, 183
 Soln Found: Proper useEffect implemented
+
+4. 
+Problem Encountered: P2P connection not happening(only one direction)
+Soln Found: 
 
 
 /*
